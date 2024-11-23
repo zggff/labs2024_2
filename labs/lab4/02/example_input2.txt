@@ -1,0 +1,5 @@
+Load a, nums_2.txt;
+print A, all;
+print A, 5;
+print A, 2, 4;
+

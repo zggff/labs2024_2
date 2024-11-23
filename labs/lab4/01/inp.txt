@@ -1,0 +1,7 @@
+#define 0name Max
+#define 0lname Giga
+#define 0age 19
+#define 8 100
+
+hello, my name is 0name 0lname, and i am 0age years old.
+eight in binary is 8

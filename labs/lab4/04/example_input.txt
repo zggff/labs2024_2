@@ -1,0 +1,28 @@
+read(a, 2); {
+this is a comment
+}
+read(b, 2); %comment
+c := a + b;
+write(c, 2);
+c := a & b;
+{
+read(a, 4)
+a := ~a;
+}
+write(c, 2);
+c := a -> b;
+write(c, 2);
+c := b <- a;
+write(c, 2);
+c := a ~ b;
+write(c, 2);
+c := a <> b;
+write(c, 2);
+c := a +> b;
+write(c, 2);
+c := a ? b;
+write(c, 2);
+c := a ! b;
+write(c, 2);
+c := \a;
+write(c, 2);
